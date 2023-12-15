@@ -1,0 +1,11 @@
+Top 10 most common data science-related words:
+Analytics/Analysis: 77 occurrences
+Python: 31 occurrences
+R: 16 occurrences
+Predictive: 10 occurrences
+Network: 9 occurrences
+A/B testing: 9 occurrences
+regression: 7 occurrences
+spark: 7 occurrences
+sql: 7 occurrences
+classification: 6 occurrences
